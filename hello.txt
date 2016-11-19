@@ -1,1 +1,1 @@
-hello ther this is the test in the git hup repository
+hello there this is the test in the git hup repository
